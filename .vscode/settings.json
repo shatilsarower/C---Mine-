@@ -1,0 +1,6 @@
+{
+    "editor.codeLensFontFamily": "15",
+    "editor.formatOnType": true,
+    "C_Cpp.vcFormat.newLine.closeBraceSameLine.emptyType": true,
+    "editor.fontLigatures": true
+}
