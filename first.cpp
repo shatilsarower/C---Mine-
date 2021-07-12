@@ -2,11 +2,11 @@
 using namespace std;
 class Rectangular
 {
-private:
+ private:
     int length;
     int breath;
 
-public:
+ public:
     int area()
     {
         return length * breath;

@@ -1,15 +1,9 @@
 #include <iostream>
 using namespace std;
-///Constructors
-class Ractangular{
-private:
-    int length;
-    int breath;
-
-public:
-    Ractangular()
-    {
-        length = 0;
-        breath = 0;
-    }
-};
+int main(){
+    int x = 10;
+    int *p;
+    p = &x;
+    cout << *p;
+    return 0;
+}
